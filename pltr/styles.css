@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: Rox;
+        src: url(/public/fonts/Roxborough/RoxboroughCF-Thin.otf) format("otf");
+    }
+}
